@@ -1,0 +1,7 @@
+{
+  "name": "Melodix - Premium Music Library",
+  "description": "A sophisticated music library management system featuring intelligent YouTube-integrated search, playlist CRUD operations, and a seamless playback experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
